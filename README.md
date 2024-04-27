@@ -10,7 +10,11 @@ https://github.com/100xdevNikunj
 
   <a href="https://github.com/nik132-eng">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nik132-eng&show_icons=true&line_height=27&count_private=true&title_color=3a98dc&text_color=000000&icon_color=000000&bg_color=ffffff" alt="nik's GitHub Stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik132-eng&" alt="nik132-eng" /></p>
 </a>
+
+
+
 
 <!-- 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong> -->
@@ -20,24 +24,29 @@ https://github.com/100xdevNikunj
   
   <p align="center">
   <br><br>
-  <samp>
-    I'm Nikunj Rohit :wave:
-    <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
-    <br><br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
-  </samp>
+  
+## Hello there! 👋
+
+I'm Nikunj Rohit, a full-stack web developer passionate about building beautiful and functional web applications.
+
+## About Me
+I specialize in both front-end and back-end development, with expertise in technologies such as React, Node.js, and MongoDB. I love creating end-to-end solutions that provide a seamless user experience and meet complex business requirements.
+
+## My Approach
+I believe in the power of collaboration and communication to deliver high-quality software. I work closely with designers, product managers, and other developers to ensure that our projects are delivered on time, on budget, and to the highest standards.
+
+## What I Enjoy
+When I'm not coding, you can find me playing flute, reading books, tinkering with new technologies, or exploring the latest design trends.
+
+Feel free to reach out to me if you have any questions or just want to chat about web development or milkshakes!
+
 </p>
 
 <br>
   
   
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
-  <br/>
    <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40%" height="20%">
 </p>
 
